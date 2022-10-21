@@ -1,2 +1,4 @@
 class HomeController < ApplicationController
-endx
+  def index
+  end
+end
